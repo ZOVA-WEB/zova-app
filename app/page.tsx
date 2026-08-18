@@ -146,11 +146,11 @@ const categories: Category[] = [
   {
     name: "Nachosy",
     subtitle: "RARE. BOLD. ADDICTIVE.",
-    image: "/NACHOSY.png",
+    image: "/NACHOS&DIPS.png",
     products: [
       {
         name: "Nachosy",
-        image: "/NACHOSY.png",
+        image: "/NACHOS&DIPS.png",
         description: "Chrupiące nachosy idealne do sosów ZOVA.",
       },
     ],
