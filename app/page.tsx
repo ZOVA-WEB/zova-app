@@ -29,21 +29,21 @@ const categories: Category[] = [
   {
     name: "Chipsy",
     subtitle: "CRUNCH. RARE. ADDICTIVE.",
-    image: "/CHIPSY.png",
+    image: "/chipsy.png",
     products: [
       {
         name: "Chipsy Klasyczne",
-        image: "/ChipsyKlasyczne.png",
+        image: "/chipsyklasyczne.png",
         description: "Klasyczne smaki, których nie może zabraknąć.",
       },
       {
         name: "Chipsy Ostre",
-        image: "/ChipsyOstre.png",
+        image: "/chipsyostre.png",
         description: "Dla tych, którzy lubią mocniejsze doznania.",
       },
       {
         name: "Chipsy Serowe",
-        image: "/ChipsySerowe.png",
+        image: "/chipsyserowe.png",
         description: "Intensywnie serowe i wyjątkowo chrupiące.",
       },
     ],
@@ -52,36 +52,36 @@ const categories: Category[] = [
   {
     name: "Napoje",
     subtitle: "RARE FLAVORS. BOLD CHOICE.",
-    image: "/Napoje.png",
+    image: "/napoje.png",
     products: [
       {
         name: "Coca-Cola",
-        image: "/NapojeCocaCola.png",
+        image: "/napojecocacola.png",
         description: "Rare & unique Coca-Cola flavors.",
       },
       {
         name: "Fanta",
-        image: "/NapojeFanta.png",
+        image: "/napojefanta.png",
         description: "Kolorowe i nietypowe warianty.",
       },
       {
         name: "Ice Tea",
-        image: "/NapojeIceTea.png",
+        image: "/napojeicetea.png",
         description: "Orzeźwiające warianty z różnych zakątków świata.",
       },
       {
         name: "Red Bull",
-        image: "/REDBULL.png",
+        image: "/redbull.png",
         description: "Energia w wyjątkowych wariantach.",
       },
       {
         name: "Pepsi",
-        image: "/PEPSI.png",
+        image: "/pepsi.png",
         description: "Rare Pepsi flavors.",
       },
       {
         name: "Klasyczne Orzeźwienie",
-        image: "/NapojeKlasyczneOrzezwienie.png",
+        image: "/napojeklasyczneorzezwienie.png",
         description: "Wyjątkowe napoje na każdą okazję.",
       },
     ],
@@ -90,36 +90,36 @@ const categories: Category[] = [
   {
     name: "Słodkie",
     subtitle: "RARE. UNIQUE. LEGENDARY.",
-    image: "/SLODYCZE.png",
+    image: "/slodycze.png",
     products: [
       {
         name: "OREO",
-        image: "/OREO.png",
+        image: "/oreo.png",
         description: "Rare & limited edition OREO flavors.",
       },
       {
         name: "KitKat",
-        image: "/KITKAT.png",
+        image: "/kitkat.png",
         description: "Wyjątkowe warianty KitKat.",
       },
       {
         name: "Kinder",
-        image: "/KINDER.png",
+        image: "/kinder.png",
         description: "Limitowane i nietypowe produkty Kinder.",
       },
       {
         name: "Milka",
-        image: "/MILKA.png",
+        image: "/milka.png",
         description: "Czekoladowe warianty, których nie znajdziesz wszędzie.",
       },
       {
         name: "7Days",
-        image: "/7DAYS.png",
+        image: "/7days.png",
         description: "Rare croissant flavors.",
       },
       {
         name: "Reese's",
-        image: "/REESES.png",
+        image: "/reeses.png",
         description: "Peanut butter heaven.",
       },
     ],
@@ -128,16 +128,16 @@ const categories: Category[] = [
   {
     name: "Energy",
     subtitle: "ENERGY. RARE. DIFFERENT.",
-    image: "/ENERGY.png",
+    image: "/energy.png",
     products: [
       {
         name: "Energy",
-        image: "/ENERGY.png",
+        image: "/energy.png",
         description: "Nietypowe energetyki i limitowane warianty.",
       },
       {
         name: "Red Bull",
-        image: "/NapojeRedBull.png",
+        image: "/napojeredbull.png",
         description: "Rare Red Bull flavors.",
       },
     ],
@@ -146,11 +146,11 @@ const categories: Category[] = [
   {
     name: "Nachosy",
     subtitle: "RARE. BOLD. ADDICTIVE.",
-    image: "/NACHOS&DIPS.png",
+    image: "/nachos-and-dips.png",
     products: [
       {
         name: "Nachosy",
-        image: "/NACHOS&DIPS.png",
+        image: "/nachos-and-dips.png",
         description: "Chrupiące nachosy idealne do sosów ZOVA.",
       },
     ],
@@ -159,11 +159,11 @@ const categories: Category[] = [
   {
     name: "Sosy",
     subtitle: "SOSY NA KAŻDĄ OKAZJĘ.",
-    image: "/SOSY.png",
+    image: "/sosy.png",
     products: [
       {
         name: "Sosy ZOVA",
-        image: "/SOSY.png",
+        image: "/sosy.png",
         description:
           "Wyjątkowe sosy do burgerów, nachosów, chipsów, BBQ i nie tylko.",
       },
@@ -174,52 +174,52 @@ const categories: Category[] = [
 const reesesProducts: Product[] = [
   {
     name: "Reese's Caramel Big Cup",
-    image: "/reeses_caramel_big_cup.PNG",
+    image: "/reeses_caramel_big_cup.png",
     description: "Reese's Big Cup z wyjątkowym karmelem.",
   },
   {
     name: "Reese's Chocolate Lava Big Cup",
-    image: "/reeses_chocolate_java_big_cup.PNG",
+    image: "/reeses_chocolate_lava_big_cup.png",
     description: "Intensywne połączenie czekolady i peanut butter.",
   },
   {
     name: "Reese's Filled Pretzels",
-    image: "/reeses_filled_pretzels.PNG",
+    image: "/reeses_filled_pretzels.png",
     description: "Chrupiące precle wypełnione masłem orzechowym Reese's.",
   },
   {
     name: "Reese's Mini Pumpkins",
-    image: "/reeses_mini_pumpkins.PNG",
+    image: "/reeses_mini_pumpkins.png",
     description: "Miniaturowe Reese's w wyjątkowym Pumpkin-Design.",
   },
   {
     name: "Reese's Nutrageous",
-    image: "/reeses_nutrageous.PNG",
+    image: "/reeses_nutrageous.png",
     description: "Peanut butter, karmel i chrupiące dodatki.",
   },
   {
     name: "Reese's Oreo",
-    image: "/reeses_oreo.PNG",
+    image: "/reeses_oreo.png",
     description: "Reese's połączone z kultowym Oreo.",
   },
   {
     name: "Reese's Pieces",
-    image: "/reeses_pieces.PNG",
+    image: "/reeses_pieces.png",
     description: "Klasyczne Reese's Pieces z peanut butter.",
   },
   {
     name: "Reese's Pretzels Big Cup",
-    image: "/reeses_pretzels_big_cup.PNG",
+    image: "/reeses_pretzels_big_cup.png",
     description: "Big Cup z chrupiącymi preclami.",
   },
   {
     name: "Reese's Sticks",
-    image: "/reeses_sticks.PNG",
+    image: "/reeses_stickspng.png",
     description: "Knusprige Sticks mit Reese's Peanut Butter.",
   },
   {
     name: "Reese's White",
-    image: "/reeses_white.PNG",
+    image: "/reeses_white.png",
     description: "Weiße Schokolade mit klassischem Reese's Peanut Butter.",
   },
 ];
@@ -231,7 +231,7 @@ const recipes: Recipe[] = [
     description:
       "Stwórz własnego burgera ZOVA z soczystym mięsem, serem, chrupiącymi dodatkami i ulubionym sosem.",
     icon: "🍔",
-    image: "/ZOVABURGERNIGHT.png",
+    image: "/zovaburgernight.png",
     ingredients: [
       "Bułka burgerowa",
       "Wołowina 150–200 g",
@@ -258,7 +258,7 @@ const recipes: Recipe[] = [
     description:
       "Wieczór BBQ z grillowanym mięsem, intensywnym sosem i zimnym napojem.",
     icon: "🔥",
-    image: "/BBQNIGHT.JPG",
+    image: "/bbqnight.jpg",
     ingredients: [
       "Żeberka lub skrzydełka",
       "Sos BBQ ZOVA",
@@ -285,7 +285,7 @@ const recipes: Recipe[] = [
     description:
       "Soczyste żeberka z mocnym BBQ glaze'em. Idealne na wieczór ze znajomymi.",
     icon: "🍖",
-    image: "/ZOVARIBS.png",
+    image: "/zovaribs.png",
     ingredients: [
       "Żeberka wieprzowe",
       "Sól",
@@ -311,7 +311,7 @@ const recipes: Recipe[] = [
     description:
       "Chrupiące nachosy i kilka różnych sosów. Prosty zestaw na wspólny wieczór.",
     icon: "🌶️",
-    image: "/NACHOS&DIPS.png",
+    image: "/nachos-and-dips.png",
     ingredients: [
       "Nachosy",
       "Sos serowy",
@@ -337,7 +337,7 @@ const recipes: Recipe[] = [
     description:
       "Najprostszy sposób na wieczór ZOVA — wybierz chipsy i połącz je z odpowiednim sosem.",
     icon: "🥔",
-    image: "/CHIPS&SAUCE.png",
+    image: "/chips-and-sauce.png",
     ingredients: [
       "Chipsy klasyczne",
       "Chipsy ostre",
